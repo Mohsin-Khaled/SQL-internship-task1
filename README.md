@@ -34,30 +34,30 @@ This project contains a structured SQL database for managing students, courses, 
 📸 Screenshots
 
  ### Creating Database script structure
-![Database query1] (screenshots-sql/schema.sql screenshot1.png)
-![Database query2] (screenshts-sql/schema.sql screenshot2.png)
+![Database query1] (https://github.com/Mohsin-Khaled/SQL-internship-task1/blob/c3a5180487e5f408ab85dbe2695aaad1cb71b22c/screenshots-sql/schema.sql%20screenshot1.png)
+![Database query2] (https://github.com/Mohsin-Khaled/SQL-internship-task1/blob/c3a5180487e5f408ab85dbe2695aaad1cb71b22c/screenshots-sql/schema.sql%20screenshot2.png)
 
 ### Insert query script
-![Insert query 1] (screenshots-sql/Data.sql screenshot1.png)
-![Insert query 2] (screenshots-sql/Data.sql screenshot2.png)
+![Insert query 1] (https://github.com/Mohsin-Khaled/SQL-internship-task1/blob/c3a5180487e5f408ab85dbe2695aaad1cb71b22c/screenshots-sql/Data.sql%20screenshot1.png)
+![Insert query 2] (https://github.com/Mohsin-Khaled/SQL-internship-task1/blob/c3a5180487e5f408ab85dbe2695aaad1cb71b22c/screenshots-sql/Data.sql%20screenshot2.png)
 
 ### Table structure
-![Main table] (screenshots-sql/table.output screenshot.png)
+![Main table] (https://github.com/Mohsin-Khaled/SQL-internship-task1/blob/c3a5180487e5f408ab85dbe2695aaad1cb71b22c/screenshots-sql/table.output%20screenshot.png)
 
 ### Students table structure
-![Students table] (screenshots-sql/students.output screenshot.png)
+![Students table] (https://github.com/Mohsin-Khaled/SQL-internship-task1/blob/c3a5180487e5f408ab85dbe2695aaad1cb71b22c/screenshots-sql/students.output%20screenshot.png)
 
 ### Courses table structure
-![Courses table] (screenshots-sql/courses.output screenshot.png)
+![Courses table] (https://github.com/Mohsin-Khaled/SQL-internship-task1/blob/c3a5180487e5f408ab85dbe2695aaad1cb71b22c/screenshots-sql/courses.output%20screenshot.png)
 
 ### Exams table structure
-![Exams table] (screenshots-sql/exams.output screenshot.png)
+![Exams table] (https://github.com/Mohsin-Khaled/SQL-internship-task1/blob/c3a5180487e5f408ab85dbe2695aaad1cb71b22c/screenshots-sql/exams.output%20screenshot.png)
 
 ### Results table structure
-![Results table] (screenshots-sql/results.output screenshot.png)
+![Results table]  (https://github.com/Mohsin-Khaled/SQL-internship-task1/blob/c3a5180487e5f408ab85dbe2695aaad1cb71b22c/screenshots-sql/results.output%20screenshot.png)
 
 ### ER-Diagram structure
-![ER-Diagram ] (screenshots-sql/ER-Diagram.jpg)
+![ER-Diagram ] (https://github.com/Mohsin-Khaled/SQL-internship-task1/blob/c3a5180487e5f408ab85dbe2695aaad1cb71b22c/screenshots-sql/ER-Diagram.jpg)
 
 👤 Author
 
